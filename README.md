@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo-512.png" width="160" alt="XLNFT logo"/></p>
+
 # XLNFT — Lunarium Finance (BEP-20)
 
 **XLNFT is the BEP-20 token that bridges LunariumCoin (XLN) to Web3.**
