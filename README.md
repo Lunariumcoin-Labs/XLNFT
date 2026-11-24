@@ -1,5 +1,11 @@
 <p align="center"><img src="assets/logo-512.png" width="160" alt="XLNFT logo"/></p>
 
+<p align="center">
+  <a href="https://galaxia.lunariumcoin.com/?coin=xlnft"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgalaxia.lunariumcoin.com%2Fapi%2Fv1%2Fcoins%2Fxlnft&query=%24.data.market_cap_usd&prefix=%24&label=market%20cap&color=d4a017&cacheSeconds=1800" alt="XLNFT market cap (live)"/></a>
+  <a href="https://galaxia.lunariumcoin.com/?coin=xlnft"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgalaxia.lunariumcoin.com%2Fapi%2Fv1%2Fcoins%2Fxlnft&query=%24.data.price_usd&prefix=%24&label=price&color=d4a017&cacheSeconds=1800" alt="XLNFT price (live)"/></a>
+  <br/><sub>Live data from the <a href="https://galaxia.lunariumcoin.com/?coin=xlnft">GaláxiaLunarium</a> aggregator</sub>
+</p>
+
 # XLNFT — Lunarium Finance (BEP-20)
 
 **XLNFT is the BEP-20 token that bridges LunariumCoin (XLN) to Web3.**
