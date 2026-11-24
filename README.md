@@ -46,4 +46,8 @@ The swap will run through the upcoming LunariumTrade exchange.
 - Website: https://lunariumcoin.com
 - Contact: lunariumcoin.xln@gmail.com
 
+## License
+
+[MIT](LICENSE) — the same license declared in the verified contract source (`SPDX-License-Identifier: MIT`).
+
 © 2026 Lunarium Labs
